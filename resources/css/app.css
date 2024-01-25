@@ -47,6 +47,15 @@
     padding: 1.5rem;
 }
 
+.form-group--full-width {
+    grid-column: span 2;
+}
+
+.form-group--half-width {
+    grid-column: span 1;
+}
+
+
 .main .pane h3 {
     font-weight: 700;
 }
